@@ -29,7 +29,7 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 4rem;
 }
 
 .two {
@@ -109,7 +109,7 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 61.5%;
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
